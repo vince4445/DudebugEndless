@@ -3,7 +3,7 @@ using System.Collections;
 
 public class obsticle : MonoBehaviour {
 	public Vector2 velocity = new Vector2 ( -4, 0);
-	public float range = 4;
+	public float range = 5;
 
 	void Start () {
 		rigidbody2D.velocity = velocity;

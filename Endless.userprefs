@@ -1,9 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/obsticle.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/destroyMe.js">
     <Files>
-      <File FileName="Assets/jump.cs" Line="21" Column="1" />
-      <File FileName="Assets/obsticle.cs" Line="17" Column="1" />
+      <File FileName="Assets/generate.cs" Line="23" Column="17" />
+      <File FileName="Assets/scenes/obsticle.cs" Line="6" Column="24" />
+      <File FileName="Assets/scripts/jump.cs" Line="1" Column="1" />
+      <File FileName="Assets/bgOffset.js" Line="9" Column="68" />
+      <File FileName="Assets/destroyMe.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

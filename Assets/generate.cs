@@ -14,7 +14,7 @@ public class generate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+
 	}
 
 	void CreateObsticle() {
@@ -22,4 +22,5 @@ public class generate : MonoBehaviour {
 		score++;
 		print (score);
        }
+
 }

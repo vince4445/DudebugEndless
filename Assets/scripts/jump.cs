@@ -10,7 +10,7 @@ public class jump : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown (0) && rigidbody2D.transform.position.y < 0) {
+		if (Input.GetMouseButtonDown (0) && rigidbody2D.transform.position.y < 3) {
 						print ("hey");
 						rigidbody2D.velocity = Vector2.zero;
 						rigidbody2D.AddForce(jumpforce);
